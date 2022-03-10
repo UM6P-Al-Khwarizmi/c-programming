@@ -2,12 +2,12 @@
 
 - Suppose C program containing the following statements:
 
-    int   i =  8;
-    int   j =  5;
-    float x =  0.005f;
-    float y = -0.01f;
-    char  c = 'c';
-    char  d = 'd';
+    - int   i =  8;
+    - int   j =  5;
+    - float x =  0.005f;
+    - float y = -0.01f;
+    - char  c = 'c';
+    - char  d = 'd';
 
 - Determine the value of these expressions:
 
