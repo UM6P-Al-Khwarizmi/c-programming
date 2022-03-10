@@ -1,6 +1,6 @@
-#Quick start for linux commands
+# Quick start for linux commands
 
-##File Commands:
+## File Commands:
  - ls – directory listing
  - ls -al – formatted listing with hidden files
  - cd dir - change directory to dir
@@ -22,13 +22,13 @@
  - tail file – output the last 10 lines of file
  - tail -f file – output the contents of file as it grows, starting with the last 10 lines 
 
-##Searching:
+## Searching:
  - grep pattern files – search for pattern in files
  - grep -r pattern dir – search recursively for pattern in dir
  - command | grep pattern – search for pattern in the output of command
  - locate file – find all instances of file
  
-##System Info:
+## System Info:
  - date – show the current date and time
  - cal – show this month's calendar
  - uptime – show current uptime
@@ -45,7 +45,7 @@
  - whereis app – show possible locations of app
  - which app – show which app will be run by default
 
-##Shortcuts:
+## Shortcuts:
  - Ctrl+C – halts the current command
  - Ctrl+Z – stops the current command, resume with
  - Ctrl+D – log out of current session, similar to exit
