@@ -2,12 +2,14 @@
 
 - Suppose C program containing the following statements:
 
-    - int   i =  8;
-    - int   j =  5;
-    - float x =  0.005f;
-    - float y = -0.01f;
-    - char  c = 'c';
-    - char  d = 'd';
+```C
+int   i =  8;
+int   j =  5;
+float x =  0.005f;
+float y = -0.01f;
+char  c = 'c';
+char  d = 'd';
+```
 
 - Determine the value of these expressions:
 
@@ -21,3 +23,28 @@
     - (i > 0) || (j < 5)
     - (x > y) && (i > 0) || (j < 5)
     - (x > y) && (i > 0) && (j < 5)
+
+### Exercise 2:
+
+- Analyse the expressions in the program below:
+
+```C
+#include <stdio.h>
+main()
+{
+  int a;
+  int b;
+  int c;
+
+  a = 16;
+  b = 2;
+  c = 10;
+
+  c += a > 0 && a <= 15 ? ++a : a/b;
+  /*
+   * What about the following expression? :
+   * ----------------------------------
+   */
+  a > 30 ? b = 11 : c = 100;
+}
+```
