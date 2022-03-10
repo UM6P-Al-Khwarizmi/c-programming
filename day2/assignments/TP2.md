@@ -1,4 +1,11 @@
 ### Exercise 1:
+- Write a C program that reads two real numbers, and then displays their product, with a precision of three decimal places. 
+
+### Exercise 2:
+- Write a C program that allows you to swap the content of two integer variables by passing through a third auxiliary variable. 
+- Display the two variables before and after permutation.
+
+### Exercise 3:
 
 - Suppose C program containing the following statements:
 
@@ -24,7 +31,7 @@ char  d = 'd';
     - (x > y) && (i > 0) || (j < 5)
     - (x > y) && (i > 0) && (j < 5)
 
-### Exercise 2:
+### Exercise 4:
 
 - Analyse the expressions in the program below:
 
