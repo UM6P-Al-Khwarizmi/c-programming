@@ -1,4 +1,4 @@
-##Exercise 1
+## Exercise 1
 
 1 - Create a struct that can represent an complex number.
 2 - Create add/sum/mul/div functions that can be applied to the created struct.
