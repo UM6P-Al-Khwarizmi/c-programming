@@ -1,13 +1,13 @@
 ## Exercise 1
 
-1 - Create a struct that can represent an complex number.
+1 - Create a struct that can represent a complex number.
 2 - Create add/sum/mul/div functions that can be applied to the created struct.
 
 
 ## Execise 2
 
 1 - Write a struct that contains a int and a string.
-2 - Swap the content of 2 Variables of the Created struct.
+2 - Swap the content of 2 Variables of the Created structs.
 
 ## Exercise 3
 
