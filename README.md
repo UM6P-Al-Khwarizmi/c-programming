@@ -6,7 +6,7 @@
 </p>
 <h1 align="center"> C Programming </h1>
 
-## Session Overview
+## Session OvervieW
 For this bootcamp we will go through many topics in C language from zero to hero.
 Each day we will have a mini-courses and assignments for applying what you learn.
 
